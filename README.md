@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+# La maison Jungle 🌸
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Un projet qui m'a permis de mettre en pratique mes connaissances fraîchement acquis en React. 
+Sur "La maison jungle" tu peux commander des fleurs mais aussi recevoir des conseils pour les entretenir !!!
+
+
+![Capture d'écran 2025-06-10 123435](https://github.com/user-attachments/assets/91b2f668-2a00-450e-9f66-95c3cd5546b5)
+
 
 ## Available Scripts
 
